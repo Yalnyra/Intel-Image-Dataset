@@ -1,5 +1,7 @@
 # Intel-Image-Dataset
 --- 
+
+[Part 2: homebrewed CNN](https://github.com/Yalnyra/Intel-Image-Dataset/blob/main/Vinokur_Model_2.ipynb)
 ### Requirements
 
 ### TODO: add conda requirements.yml 
